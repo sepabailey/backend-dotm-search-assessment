@@ -8,6 +8,7 @@ within the 'word/document.xml' section of a MSWord .dotm file.
 __author__ = "Sean Bailey, Janell Huyck, Koren Niles, Chris Wilson, Julita Marshall"
 
 import os
+import argparse
 import zipfile
 
 
